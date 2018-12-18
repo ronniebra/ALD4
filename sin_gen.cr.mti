@@ -1,0 +1,36 @@
+C:/Users/Ron/Documents/ALD/simple_clock.sv {1 {vlog -work work -sv -stats=none C:/Users/Ron/Documents/ALD/simple_clock.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module simple_clock
+
+Top level modules:
+	simple_clock
+
+} {} {}} C:/Users/Ron/Documents/ALD/period_counter.sv {1 {vlog -work work -sv -stats=none C:/Users/Ron/Documents/ALD/period_counter.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module period_counter
+
+Top level modules:
+	period_counter
+
+} {} {}} C:/Users/Ron/Documents/ALD/static_mem.sv {1 {vlog -work work -sv -stats=none C:/Users/Ron/Documents/ALD/static_mem.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module static_mem
+
+Top level modules:
+	static_mem
+
+} {} {}} C:/Users/Ron/Documents/ALD/sin_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/Ron/Documents/ALD/sin_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sin_tb
+
+Top level modules:
+	sin_tb
+
+} {} {}} C:/Users/Ron/Documents/ALD/sin_gen.sv {1 {vlog -work work -sv -stats=none C:/Users/Ron/Documents/ALD/sin_gen.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sin_gen
+
+Top level modules:
+	sin_gen
+
+} {} {}}
